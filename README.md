@@ -1,6 +1,6 @@
 # CitizenTech — Assistente de vacinação do Centro de Operações do Município (COB)
 
-**GS 2026/2 · Turma:** [1ccpg] · **Grupo:** [CitizenTech]
+**GS 2026/2 · Turma:** 1CCPG] · **Grupo:** CitizenTech
 **Frente:** Serviço público essencial — vacinação nos postos de saúde (UBS)
 
 | Integrante | RM |
